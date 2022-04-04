@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rmul247
-- 👀 I’m interested in data, blockchain, basketball
-- 🌱 I’m currently learning JavaScript (primarilly Node.js)
-- 📫 How to reach me: upcoming website/portfolio
+- 👀 I’m interested in learning how to code
+- 🌱 I’m currently learning JavaScript (primarily Node.js)
+- 📫 How to reach me: upcoming website/portfolio (?)
 
 <!---
 rmul247/rmul247 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
